@@ -1,7 +1,4 @@
-% Mubinjon Satymov
-% Physics 661
-% Final Project 
-% Part 2 - 2D Heat Equation Simulation
+% 2D Heat Equation Simulation
 
 clear; clc;
 L = 1; W = 1; T = 0.05;
