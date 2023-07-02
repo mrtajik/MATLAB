@@ -1,6 +1,4 @@
-% Mubinjon Satymov
-% Physics 661
-% Project 1 - Brownian Motion
+% Brownian Motion
 
 clear;
 clc;
