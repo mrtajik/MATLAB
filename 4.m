@@ -1,7 +1,4 @@
-% Mubinjon Satymov
-% Physics 661
-% Final Project 
-% Part 3 - 2D Laplace Equation
+% 2D Laplace Equation
 
 %% 2D Laplace Equation
 clear; clc;
