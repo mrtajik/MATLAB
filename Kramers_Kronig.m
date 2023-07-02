@@ -1,6 +1,4 @@
-% Mubinjon Satymov
-% Physics 661
-% Project 1 - Kramers-Kronig Relations
+% Kramers-Kronig Relations
 % Refractive index = n + i*k;
 
 clear;
