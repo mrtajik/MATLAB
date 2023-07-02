@@ -1,7 +1,4 @@
-% Mubinjon Satymov
-% Physics 661
-% Final Project 
-% Part 3 - 1D Wave Equation
+% 1D Wave Equation
 
 
 
